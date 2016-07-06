@@ -1,1 +1,2 @@
-# elcity
+# ElCity
+To accomplish both monitoring and sustainability keywords it is necessary a tightly integration among citizens, city devices, city administrators and the data center platform where all data is stored, combined and processed. In this context, we propose ElCity, a model that combines the aforementioned data sources to enable an elastic multi-level management of energy consumption for a particular city.
